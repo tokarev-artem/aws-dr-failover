@@ -7,6 +7,7 @@ import json, sys, re, argparse, collections, subprocess, os
 ap = argparse.ArgumentParser()
 ap.add_argument("log"); ap.add_argument("--fault-at", type=int); ap.add_argument("--check-region")
 ap.add_argument("--bucket", type=int, default=5)
+ap.add_argument("--undo-at", type=int)
 a = ap.parse_args()
 
 rows = []
@@ -45,6 +46,12 @@ if fault:
     print(f"\nfirst error after fault: {(first_err - fault)/1000 if first_err else '-'} s")
     print(f"recovered (30 s clean):  {(rec['t'] - fault)/1000 if rec else 'never'} s, served by {rec['r'] if rec else '-'}")
     print(f"failed requests after fault: {len(errs)}  ({collections.Counter(str(e['s'])+(' '+str(e['e']) if e['e'] else '') for e in errs).most_common(5)})")
+
+if a.undo_at:
+    after = [r for r in rows if r["t"] >= a.undo_at]
+    back = next((r for r in after if r["r"] == "eu-central-1" and r["s"] == 201), None)
+    errs = [r for r in after if r["s"] != 201]
+    print(f"\nfailback: first request served by eu-central-1 again after {(back['t']-a.undo_at)/1000 if back else 'never'} s; errors during failback: {len(errs)}")
 
 if a.check_region:
     run = os.path.basename(a.log).rsplit(".", 1)[0]
