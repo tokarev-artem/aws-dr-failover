@@ -1,0 +1,31 @@
+time="2026-11-19T21:07:52Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=118\": request timeout"
+time="2026-11-19T21:07:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=160\": request timeout"
+time="2026-11-19T21:08:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=442\": request timeout"
+time="2026-11-19T21:08:48Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=679\": request timeout"
+time="2026-11-19T21:09:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=935\": request timeout"
+time="2026-11-19T21:09:17Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=972\": request timeout"
+time="2026-11-19T21:09:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=979\": request timeout"
+time="2026-11-19T21:09:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo&seq=1071\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=30.82ms  p(95)=108.38ms p(99)=181.46ms max=345.39ms
+      { expected_response:true }...: p(50)=30.88ms  p(95)=108.57ms p(99)=181.51ms max=345.39ms
+    http_req_failed................: 0.70%  8 out of 1127
+    http_reqs......................: 1127   9.967907/s
+
+    EXECUTION
+    iteration_duration.............: p(50)=125.36ms p(95)=328.09ms p(99)=3.21s    max=5s      
+    iterations.....................: 1127   9.967907/s
+    vus............................: 3      min=0         max=5 
+    vus_max........................: 20     min=20        max=20
+
+    NETWORK
+    data_received..................: 5.4 MB 48 kB/s
+    data_sent......................: 2.1 MB 18 kB/s
+
+
+
+time="2026-11-19T21:09:29Z" level=error msg="test run was aborted because k6 received a 'terminated' signal"

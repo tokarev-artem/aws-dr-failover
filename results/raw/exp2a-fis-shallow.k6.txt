@@ -1,0 +1,81 @@
+time="2026-11-19T20:52:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=472\": request timeout"
+time="2026-11-19T20:52:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=487\": request timeout"
+time="2026-11-19T20:52:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=596\": request timeout"
+time="2026-11-19T20:52:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=598\": request timeout"
+time="2026-11-19T20:52:22Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=620\": request timeout"
+time="2026-11-19T20:52:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=712\": request timeout"
+time="2026-11-19T20:52:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=763\": request timeout"
+time="2026-11-19T20:52:51Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=908\": request timeout"
+time="2026-11-19T20:53:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1176\": request timeout"
+time="2026-11-19T20:53:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1247\": request timeout"
+time="2026-11-19T20:53:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1267\": request timeout"
+time="2026-11-19T20:53:49Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1486\": request timeout"
+time="2026-11-19T20:53:51Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1506\": request timeout"
+time="2026-11-19T20:54:04Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1628\": request timeout"
+time="2026-11-19T20:54:05Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1641\": request timeout"
+time="2026-11-19T20:54:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1685\": request timeout"
+time="2026-11-19T20:54:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1699\": request timeout"
+time="2026-11-19T20:54:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1771\": request timeout"
+time="2026-11-19T20:54:26Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=1850\": request timeout"
+time="2026-11-19T20:54:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2153\": request timeout"
+time="2026-11-19T20:54:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2156\": request timeout"
+time="2026-11-19T20:54:58Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2170\": request timeout"
+time="2026-11-19T20:54:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2184\": request timeout"
+time="2026-11-19T20:55:06Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2257\": request timeout"
+time="2026-11-19T20:55:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2262\": request timeout"
+time="2026-11-19T20:55:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2299\": request timeout"
+time="2026-11-19T20:55:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2306\": request timeout"
+time="2026-11-19T20:55:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2383\": request timeout"
+time="2026-11-19T20:55:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2477\": request timeout"
+time="2026-11-19T20:55:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2560\": request timeout"
+time="2026-11-19T20:55:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2578\": request timeout"
+time="2026-11-19T20:55:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2649\": request timeout"
+time="2026-11-19T20:55:53Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2721\": request timeout"
+time="2026-11-19T20:55:53Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2726\": request timeout"
+time="2026-11-19T20:56:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=2971\": request timeout"
+time="2026-11-19T20:56:26Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3052\": request timeout"
+time="2026-11-19T20:56:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3072\": request timeout"
+time="2026-11-19T20:56:30Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3088\": request timeout"
+time="2026-11-19T20:56:33Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3122\": request timeout"
+time="2026-11-19T20:56:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3152\": request timeout"
+time="2026-11-19T20:56:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3181\": request timeout"
+time="2026-11-19T20:56:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3202\": request timeout"
+time="2026-11-19T20:56:43Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3226\": request timeout"
+time="2026-11-19T20:56:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3239\": request timeout"
+time="2026-11-19T20:56:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3336\": request timeout"
+time="2026-11-19T20:57:00Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3396\": request timeout"
+time="2026-11-19T20:57:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3460\": request timeout"
+time="2026-11-19T20:57:13Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3521\": request timeout"
+time="2026-11-19T20:57:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3588\": request timeout"
+time="2026-11-19T20:57:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3630\": request timeout"
+time="2026-11-19T20:57:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3631\": request timeout"
+time="2026-11-19T20:57:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3668\": request timeout"
+time="2026-11-19T20:57:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3708\": request timeout"
+time="2026-11-19T20:57:42Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3810\": request timeout"
+time="2026-11-19T20:57:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=3938\": request timeout"
+time="2026-11-19T20:58:02Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=4017\": request timeout"
+time="2026-11-19T20:58:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=4080\": request timeout"
+time="2026-11-19T20:58:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-fis-shallow&seq=4102\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=1.02s   p(95)=1.06s    p(99)=1.2s     max=3.93s
+      { expected_response:true }...: p(50)=31.66ms p(95)=109.09ms p(99)=172.83ms max=1.06s
+    http_req_failed................: 57.60% 2417 out of 4196
+    http_reqs......................: 4196   9.989961/s
+
+    EXECUTION
+    dropped_iterations.............: 4      0.009523/s
+    iteration_duration.............: p(50)=1.09s   p(95)=2.11s    p(99)=5s       max=5.01s
+    iterations.....................: 4196   9.989961/s
+    vus............................: 1      min=0            max=22
+    vus_max........................: 24     min=20           max=24
+
+    NETWORK
+    data_received..................: 20 MB  48 kB/s
+    data_sent......................: 7.6 MB 18 kB/s
+
+
+

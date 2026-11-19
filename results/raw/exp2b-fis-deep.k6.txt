@@ -1,0 +1,79 @@
+time="2026-11-19T20:59:43Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=319\": request timeout"
+time="2026-11-19T20:59:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=450\": request timeout"
+time="2026-11-19T21:00:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=803\": request timeout"
+time="2026-11-19T21:00:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=811\": request timeout"
+time="2026-11-19T21:00:49Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=979\": request timeout"
+time="2026-11-19T21:00:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1031\": request timeout"
+time="2026-11-19T21:01:06Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1149\": request timeout"
+time="2026-11-19T21:01:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1245\": request timeout"
+time="2026-11-19T21:01:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1249\": request timeout"
+time="2026-11-19T21:01:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1334\": request timeout"
+time="2026-11-19T21:02:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=1940\": request timeout"
+time="2026-11-19T21:02:48Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2163\": request timeout"
+time="2026-11-19T21:02:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2187\": request timeout"
+time="2026-11-19T21:02:51Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2200\": request timeout"
+time="2026-11-19T21:02:52Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2209\": request timeout"
+time="2026-11-19T21:02:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2261\": request timeout"
+time="2026-11-19T21:03:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2426\": request timeout"
+time="2026-11-19T21:03:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2445\": request timeout"
+time="2026-11-19T21:03:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2646\": request timeout"
+time="2026-11-19T21:03:40Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2687\": request timeout"
+time="2026-11-19T21:03:49Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2772\": request timeout"
+time="2026-11-19T21:03:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2854\": request timeout"
+time="2026-11-19T21:04:00Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2888\": request timeout"
+time="2026-11-19T21:04:05Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2941\": request timeout"
+time="2026-11-19T21:04:10Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=2984\": request timeout"
+time="2026-11-19T21:04:12Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3007\": request timeout"
+time="2026-11-19T21:04:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3031\": request timeout"
+time="2026-11-19T21:04:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3127\": request timeout"
+time="2026-11-19T21:04:35Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3236\": request timeout"
+time="2026-11-19T21:04:35Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3241\": request timeout"
+time="2026-11-19T21:04:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3294\": request timeout"
+time="2026-11-19T21:04:44Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3330\": request timeout"
+time="2026-11-19T21:04:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3333\": request timeout"
+time="2026-11-19T21:04:53Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3420\": request timeout"
+time="2026-11-19T21:04:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3425\": request timeout"
+time="2026-11-19T21:04:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3480\": request timeout"
+time="2026-11-19T21:05:06Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3551\": request timeout"
+time="2026-11-19T21:05:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3578\": request timeout"
+time="2026-11-19T21:05:35Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3839\": request timeout"
+time="2026-11-19T21:05:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=3944\": request timeout"
+time="2026-11-19T21:06:02Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4106\": request timeout"
+time="2026-11-19T21:06:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4227\": request timeout"
+time="2026-11-19T21:06:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4243\": request timeout"
+time="2026-11-19T21:06:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4264\": request timeout"
+time="2026-11-19T21:06:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4328\": request timeout"
+time="2026-11-19T21:06:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4338\": request timeout"
+time="2026-11-19T21:06:31Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4394\": request timeout"
+time="2026-11-19T21:06:33Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4419\": request timeout"
+time="2026-11-19T21:06:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4450\": request timeout"
+time="2026-11-19T21:06:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4451\": request timeout"
+time="2026-11-19T21:06:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4455\": request timeout"
+time="2026-11-19T21:06:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4541\": request timeout"
+time="2026-11-19T21:06:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4586\": request timeout"
+time="2026-11-19T21:06:52Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4611\": request timeout"
+time="2026-11-19T21:06:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4678\": request timeout"
+time="2026-11-19T21:07:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2b-fis-deep&seq=4693\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=37.33ms  p(95)=1.03s    p(99)=1.12s    max=2.56s   
+      { expected_response:true }...: p(50)=33.25ms  p(95)=115.53ms p(99)=187.45ms max=564.41ms
+    http_req_failed................: 15.44% 741 out of 4798
+    http_reqs......................: 4798   9.995738/s
+
+    EXECUTION
+    dropped_iterations.............: 2      0.004167/s
+    iteration_duration.............: p(50)=142.03ms p(95)=1.23s    p(99)=5s       max=5.02s   
+    iterations.....................: 4798   9.995738/s
+    vus............................: 1      min=0           max=21
+    vus_max........................: 22     min=20          max=22
+
+    NETWORK
+    data_received..................: 23 MB  48 kB/s
+    data_sent......................: 8.8 MB 18 kB/s
+
+
+

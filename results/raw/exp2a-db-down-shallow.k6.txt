@@ -1,0 +1,74 @@
+time="2026-11-19T20:38:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=28\": request timeout"
+time="2026-11-19T20:38:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=83\": request timeout"
+time="2026-11-19T20:38:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=112\": request timeout"
+time="2026-11-19T20:38:21Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=210\": request timeout"
+time="2026-11-19T20:38:40Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=400\": request timeout"
+time="2026-11-19T20:38:49Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=491\": request timeout"
+time="2026-11-19T20:38:53Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=525\": request timeout"
+time="2026-11-19T20:39:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=677\": request timeout"
+time="2026-11-19T20:39:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=954\": request timeout"
+time="2026-11-19T20:39:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=965\": request timeout"
+time="2026-11-19T20:40:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1275\": request timeout"
+time="2026-11-19T20:40:12Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1313\": request timeout"
+time="2026-11-19T20:40:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1465\": request timeout"
+time="2026-11-19T20:40:34Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1533\": request timeout"
+time="2026-11-19T20:40:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1568\": request timeout"
+time="2026-11-19T20:40:38Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1571\": request timeout"
+time="2026-11-19T20:40:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1782\": request timeout"
+time="2026-11-19T20:41:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1822\": request timeout"
+time="2026-11-19T20:41:06Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1859\": request timeout"
+time="2026-11-19T20:41:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1869\": request timeout"
+time="2026-11-19T20:41:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=1984\": request timeout"
+time="2026-11-19T20:41:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2024\": request timeout"
+time="2026-11-19T20:41:26Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2052\": request timeout"
+time="2026-11-19T20:41:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2187\": request timeout"
+time="2026-11-19T20:41:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2240\": request timeout"
+time="2026-11-19T20:41:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2332\": request timeout"
+time="2026-11-19T20:41:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2359\": request timeout"
+time="2026-11-19T20:41:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2383\": request timeout"
+time="2026-11-19T20:42:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2570\": request timeout"
+time="2026-11-19T20:42:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2711\": request timeout"
+time="2026-11-19T20:42:33Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2727\": request timeout"
+time="2026-11-19T20:42:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=2855\": request timeout"
+time="2026-11-19T20:43:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3194\": request timeout"
+time="2026-11-19T20:43:21Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3205\": request timeout"
+time="2026-11-19T20:43:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3363\": request timeout"
+time="2026-11-19T20:43:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3381\": request timeout"
+time="2026-11-19T20:43:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3450\": request timeout"
+time="2026-11-19T20:43:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3537\": request timeout"
+time="2026-11-19T20:44:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3604\": request timeout"
+time="2026-11-19T20:44:02Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3610\": request timeout"
+time="2026-11-19T20:44:02Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3617\": request timeout"
+time="2026-11-19T20:44:12Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3716\": request timeout"
+time="2026-11-19T20:44:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3778\": request timeout"
+time="2026-11-19T20:44:21Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3803\": request timeout"
+time="2026-11-19T20:44:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3845\": request timeout"
+time="2026-11-19T20:44:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3874\": request timeout"
+time="2026-11-19T20:44:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3910\": request timeout"
+time="2026-11-19T20:44:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3914\": request timeout"
+time="2026-11-19T20:44:33Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=3924\": request timeout"
+time="2026-11-19T20:44:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=4000\": request timeout"
+time="2026-11-19T20:44:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp2a-db-down-shallow&seq=4056\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=33.76ms p(95)=114.62ms p(99)=177.7ms  max=692.63ms
+      { expected_response:true }...: p(50)=33.93ms p(95)=114.69ms p(99)=178.36ms max=692.63ms
+    http_req_failed................: 1.21%  51 out of 4193
+    http_reqs......................: 4193   9.980525/s
+
+    EXECUTION
+    dropped_iterations.............: 8      0.019042/s
+    iteration_duration.............: p(50)=126.3ms p(95)=1.12s    p(99)=5s       max=5.91s   
+    iterations.....................: 4193   9.980525/s
+    vus............................: 2      min=0          max=20
+    vus_max........................: 21     min=20         max=21
+
+    NETWORK
+    data_received..................: 20 MB  48 kB/s
+    data_sent......................: 7.7 MB 18 kB/s
+
+
+

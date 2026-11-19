@@ -1,0 +1,65 @@
+{
+    "Label": "ReplicationLatency",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-11-19T21:12:00+00:00",
+            "Maximum": 1043.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:21:00+00:00",
+            "Maximum": 1037.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:11:00+00:00",
+            "Maximum": 1050.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:20:00+00:00",
+            "Maximum": 1055.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:19:00+00:00",
+            "Maximum": 391313.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:09:00+00:00",
+            "Maximum": 1055.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:08:00+00:00",
+            "Maximum": 1065.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:24:00+00:00",
+            "Maximum": 1039.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:06:00+00:00",
+            "Maximum": 1050.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:07:00+00:00",
+            "Maximum": 1035.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:23:00+00:00",
+            "Maximum": 1088.0,
+            "Unit": "Milliseconds"
+        },
+        {
+            "Timestamp": "2026-11-19T21:05:00+00:00",
+            "Maximum": 1083.0,
+            "Unit": "Milliseconds"
+        }
+    ]
+}

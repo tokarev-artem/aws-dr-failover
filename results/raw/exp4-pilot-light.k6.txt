@@ -1,0 +1,72 @@
+time="2026-11-19T21:23:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=256\": request timeout"
+time="2026-11-19T21:23:51Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=440\": request timeout"
+time="2026-11-19T21:23:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=508\": request timeout"
+time="2026-11-19T21:24:04Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=576\": request timeout"
+time="2026-11-19T21:24:43Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=960\": request timeout"
+time="2026-11-19T21:24:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=982\": request timeout"
+time="2026-11-19T21:24:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=991\": request timeout"
+time="2026-11-19T21:24:51Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1047\": request timeout"
+time="2026-11-19T21:24:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1108\": request timeout"
+time="2026-11-19T21:25:13Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1268\": request timeout"
+time="2026-11-19T21:25:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1317\": request timeout"
+time="2026-11-19T21:26:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1807\": request timeout"
+time="2026-11-19T21:26:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=1967\": request timeout"
+time="2026-11-19T21:26:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2012\": request timeout"
+time="2026-11-19T21:26:42Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2155\": request timeout"
+time="2026-11-19T21:27:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2443\": request timeout"
+time="2026-11-19T21:27:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2472\": request timeout"
+time="2026-11-19T21:27:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2563\": request timeout"
+time="2026-11-19T21:27:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2704\": request timeout"
+time="2026-11-19T21:27:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2726\": request timeout"
+time="2026-11-19T21:27:58Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=2916\": request timeout"
+time="2026-11-19T21:28:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3134\": request timeout"
+time="2026-11-19T21:28:29Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3227\": request timeout"
+time="2026-11-19T21:28:53Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3465\": request timeout"
+time="2026-11-19T21:28:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3471\": request timeout"
+time="2026-11-19T21:29:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3547\": request timeout"
+time="2026-11-19T21:29:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3603\": request timeout"
+time="2026-11-19T21:29:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3604\": request timeout"
+time="2026-11-19T21:29:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3615\": request timeout"
+time="2026-11-19T21:29:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3710\": request timeout"
+time="2026-11-19T21:29:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3724\": request timeout"
+time="2026-11-19T21:29:21Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3744\": request timeout"
+time="2026-11-19T21:29:29Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3823\": request timeout"
+time="2026-11-19T21:29:29Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3825\": request timeout"
+time="2026-11-19T21:29:30Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3833\": request timeout"
+time="2026-11-19T21:29:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3851\": request timeout"
+time="2026-11-19T21:29:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3856\": request timeout"
+time="2026-11-19T21:29:35Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3880\": request timeout"
+time="2026-11-19T21:29:43Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3963\": request timeout"
+time="2026-11-19T21:29:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3991\": request timeout"
+time="2026-11-19T21:29:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=3994\": request timeout"
+time="2026-11-19T21:29:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4086\": request timeout"
+time="2026-11-19T21:30:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4142\": request timeout"
+time="2026-11-19T21:30:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4200\": request timeout"
+time="2026-11-19T21:30:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4204\": request timeout"
+time="2026-11-19T21:30:08Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4209\": request timeout"
+time="2026-11-19T21:30:11Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4246\": request timeout"
+time="2026-11-19T21:30:15Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4288\": request timeout"
+time="2026-11-19T21:30:22Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4352\": request timeout"
+time="2026-11-19T21:30:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp4-pilot-light&seq=4408\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=30.93ms  p(95)=102.09ms p(99)=154.2ms  max=508.15ms
+      { expected_response:true }...: p(50)=32.03ms  p(95)=102.22ms p(99)=154.15ms max=508.15ms
+    http_req_failed................: 16.56% 795 out of 4800
+    http_reqs......................: 4800   9.966241/s
+
+    EXECUTION
+    iteration_duration.............: p(50)=124.55ms p(95)=341.08ms p(99)=5s       max=5.03s   
+    iterations.....................: 4800   9.966241/s
+    vus............................: 1      min=0           max=8 
+    vus_max........................: 20     min=20          max=20
+
+    NETWORK
+    data_received..................: 23 MB  48 kB/s
+    data_sent......................: 8.8 MB 18 kB/s
+
+
+

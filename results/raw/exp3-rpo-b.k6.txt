@@ -1,0 +1,87 @@
+time="2026-11-19T21:12:05Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=483\": request timeout"
+time="2026-11-19T21:12:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=817\": request timeout"
+time="2026-11-19T21:12:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=977\": request timeout"
+time="2026-11-19T21:12:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1019\": request timeout"
+time="2026-11-19T21:13:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1060\": request timeout"
+time="2026-11-19T21:13:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1106\": request timeout"
+time="2026-11-19T21:13:17Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1206\": request timeout"
+time="2026-11-19T21:13:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1258\": request timeout"
+time="2026-11-19T21:13:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1264\": request timeout"
+time="2026-11-19T21:13:43Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1465\": request timeout"
+time="2026-11-19T21:13:49Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1517\": request timeout"
+time="2026-11-19T21:13:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1574\": request timeout"
+time="2026-11-19T21:13:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1582\": request timeout"
+time="2026-11-19T21:14:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1787\": request timeout"
+time="2026-11-19T21:14:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1823\": request timeout"
+time="2026-11-19T21:14:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=1907\": request timeout"
+time="2026-11-19T21:15:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2547\": request timeout"
+time="2026-11-19T21:15:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2598\": request timeout"
+time="2026-11-19T21:15:52Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2750\": request timeout"
+time="2026-11-19T21:15:58Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2816\": request timeout"
+time="2026-11-19T21:16:13Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2958\": request timeout"
+time="2026-11-19T21:16:13Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=2960\": request timeout"
+time="2026-11-19T21:16:28Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3111\": request timeout"
+time="2026-11-19T21:16:31Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3142\": request timeout"
+time="2026-11-19T21:16:33Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3159\": request timeout"
+time="2026-11-19T21:16:38Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3215\": request timeout"
+time="2026-11-19T21:16:39Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3218\": request timeout"
+time="2026-11-19T21:16:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3327\": request timeout"
+time="2026-11-19T21:16:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3328\": request timeout"
+time="2026-11-19T21:16:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3397\": request timeout"
+time="2026-11-19T21:16:58Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3414\": request timeout"
+time="2026-11-19T21:16:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3425\": request timeout"
+time="2026-11-19T21:17:00Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3431\": request timeout"
+time="2026-11-19T21:17:04Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3476\": request timeout"
+time="2026-11-19T21:17:07Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3497\": request timeout"
+time="2026-11-19T21:17:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3517\": request timeout"
+time="2026-11-19T21:17:18Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3612\": request timeout"
+time="2026-11-19T21:17:31Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3739\": request timeout"
+time="2026-11-19T21:17:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3750\": request timeout"
+time="2026-11-19T21:17:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3756\": request timeout"
+time="2026-11-19T21:17:52Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=3947\": request timeout"
+time="2026-11-19T21:18:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4057\": request timeout"
+time="2026-11-19T21:18:20Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4232\": request timeout"
+time="2026-11-19T21:18:34Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4376\": request timeout"
+time="2026-11-19T21:18:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4484\": request timeout"
+time="2026-11-19T21:18:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4489\": request timeout"
+time="2026-11-19T21:18:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4530\": request timeout"
+time="2026-11-19T21:18:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4582\": request timeout"
+time="2026-11-19T21:18:56Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4593\": request timeout"
+time="2026-11-19T21:18:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4602\": request timeout"
+time="2026-11-19T21:19:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4637\": request timeout"
+time="2026-11-19T21:19:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4640\": request timeout"
+time="2026-11-19T21:19:12Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4752\": request timeout"
+time="2026-11-19T21:19:16Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4790\": request timeout"
+time="2026-11-19T21:19:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4824\": request timeout"
+time="2026-11-19T21:19:26Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4891\": request timeout"
+time="2026-11-19T21:19:30Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4929\": request timeout"
+time="2026-11-19T21:19:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=4948\": request timeout"
+time="2026-11-19T21:19:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5171\": request timeout"
+time="2026-11-19T21:20:17Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5401\": request timeout"
+time="2026-11-19T21:20:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5475\": request timeout"
+time="2026-11-19T21:20:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5601\": request timeout"
+time="2026-11-19T21:20:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5803\": request timeout"
+time="2026-11-19T21:21:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5857\": request timeout"
+time="2026-11-19T21:21:03Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp3-rpo-b&seq=5861\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=32.54ms  p(95)=111.64ms p(99)=159.36ms max=648.39ms
+      { expected_response:true }...: p(50)=32.69ms  p(95)=111.67ms p(99)=159.43ms max=648.39ms
+    http_req_failed................: 14.16% 850 out of 6001
+    http_reqs......................: 6001   9.999732/s
+
+    EXECUTION
+    iteration_duration.............: p(50)=127.84ms p(95)=492.8ms  p(99)=5s       max=5.03s   
+    iterations.....................: 6001   9.999732/s
+    vus............................: 1      min=0           max=9 
+    vus_max........................: 20     min=20          max=20
+
+    NETWORK
+    data_received..................: 29 MB  48 kB/s
+    data_sent......................: 11 MB  18 kB/s
+
+
+

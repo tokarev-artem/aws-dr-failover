@@ -1,0 +1,73 @@
+time="2026-11-19T20:29:58Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=273\": request timeout"
+time="2026-11-19T20:29:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=290\": request timeout"
+time="2026-11-19T20:30:13Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=425\": request timeout"
+time="2026-11-19T20:30:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=482\": request timeout"
+time="2026-11-19T20:30:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=539\": request timeout"
+time="2026-11-19T20:30:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=832\": request timeout"
+time="2026-11-19T20:31:01Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=910\": request timeout"
+time="2026-11-19T20:31:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1031\": request timeout"
+time="2026-11-19T20:31:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1161\": request timeout"
+time="2026-11-19T20:31:38Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1278\": request timeout"
+time="2026-11-19T20:31:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1301\": request timeout"
+time="2026-11-19T20:31:46Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1360\": request timeout"
+time="2026-11-19T20:31:48Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1378\": request timeout"
+time="2026-11-19T20:32:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1856\": request timeout"
+time="2026-11-19T20:32:47Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1965\": request timeout"
+time="2026-11-19T20:32:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=1996\": request timeout"
+time="2026-11-19T20:32:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2081\": request timeout"
+time="2026-11-19T20:32:59Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2084\": request timeout"
+time="2026-11-19T20:33:14Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2236\": request timeout"
+time="2026-11-19T20:33:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2322\": request timeout"
+time="2026-11-19T20:33:23Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2326\": request timeout"
+time="2026-11-19T20:33:42Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2513\": request timeout"
+time="2026-11-19T20:33:50Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2597\": request timeout"
+time="2026-11-19T20:33:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2650\": request timeout"
+time="2026-11-19T20:34:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2945\": request timeout"
+time="2026-11-19T20:34:27Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=2963\": request timeout"
+time="2026-11-19T20:34:34Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3032\": request timeout"
+time="2026-11-19T20:34:36Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3060\": request timeout"
+time="2026-11-19T20:34:40Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3091\": request timeout"
+time="2026-11-19T20:34:40Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3093\": request timeout"
+time="2026-11-19T20:34:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3103\": request timeout"
+time="2026-11-19T20:34:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3150\": request timeout"
+time="2026-11-19T20:34:54Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3237\": request timeout"
+time="2026-11-19T20:34:55Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3241\": request timeout"
+time="2026-11-19T20:34:57Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3265\": request timeout"
+time="2026-11-19T20:35:06Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3352\": request timeout"
+time="2026-11-19T20:35:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3481\": request timeout"
+time="2026-11-19T20:35:21Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3503\": request timeout"
+time="2026-11-19T20:35:24Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3534\": request timeout"
+time="2026-11-19T20:35:25Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3548\": request timeout"
+time="2026-11-19T20:35:37Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3666\": request timeout"
+time="2026-11-19T20:35:41Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3704\": request timeout"
+time="2026-11-19T20:35:45Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3743\": request timeout"
+time="2026-11-19T20:36:09Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=3984\": request timeout"
+time="2026-11-19T20:36:15Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4044\": request timeout"
+time="2026-11-19T20:36:17Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4061\": request timeout"
+time="2026-11-19T20:36:19Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4088\": request timeout"
+time="2026-11-19T20:36:32Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4212\": request timeout"
+time="2026-11-19T20:36:34Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4238\": request timeout"
+time="2026-11-19T20:36:40Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4294\": request timeout"
+time="2026-11-19T20:37:17Z" level=warning msg="Request Failed" error="Post \"https://dr.tokarevartem.cloud/api/orders?run=exp1b-app-down-newconn&seq=4667\": request timeout"
+
+
+  █ TOTAL RESULTS 
+
+    HTTP
+    http_req_duration..............: p(50)=32ms     p(95)=104.45ms p(99)=156.26ms max=772.76ms
+      { expected_response:true }...: p(50)=32.54ms  p(95)=109.95ms p(99)=159.91ms max=772.76ms
+    http_req_failed................: 16.16% 776 out of 4801
+    http_reqs......................: 4801   9.998837/s
+
+    EXECUTION
+    iteration_duration.............: p(50)=115.77ms p(95)=323.57ms p(99)=5s       max=5.02s   
+    iterations.....................: 4801   9.998837/s
+    vus............................: 1      min=0           max=6 
+    vus_max........................: 20     min=20          max=20
+
+    NETWORK
+    data_received..................: 23 MB  48 kB/s
+    data_sent......................: 8.8 MB 18 kB/s
+
+
+

@@ -1,0 +1,12 @@
+start 1795122672379
+experiment EXP263en16f6o1aWgTC
+pause-replication at 1795122746943 (21:12:26 UTC)
+app-down at 1795122795575 (21:13:17 UTC)
+snapshot at 1795122912265
+acknowledged writes: 1595  present in eu-west-1: 1323  missing: 272
+missing seq range: 1046..1327
+app-up at 1795123094917 (21:18:14 UTC)
+snapshot at 1795123153014
+acknowledged writes: 3966  present in eu-west-1: 3694  missing: 272
+missing seq range: 1046..1327
+pause-end at 1795123070184 (FIS experiment completed)
