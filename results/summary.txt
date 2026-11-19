@@ -1,0 +1,60 @@
+######## exp1-app-down
+requests: 6001  ok: 2745  failed: 3256
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 10.511 s
+recovered (30 s, >=97% ok):  336.31 s, served by eu-central-1
+failed requests after fault: 3256  ([('503 1503', 3256)])
+failback: first request served by eu-central-1 again after 31.288 s; errors during failback: 314
+acknowledged writes: 2745  present in eu-west-1: 2745  missing: 0
+######## exp1b-app-down-newconn
+requests: 4801  ok: 4025  failed: 776
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 9.19 s
+recovered (30 s, >=97% ok):  84.29 s, served by eu-west-1
+failed requests after fault: 771  ([('503 1503', 725), ('0 1050', 46)])
+failback: first request served by eu-central-1 again after 129.051 s; errors during failback: 23
+acknowledged writes: 4025  present in eu-west-1: 4025  missing: 0
+######## exp2a-db-down-shallow
+requests: 4193  ok: 4142  failed: 51
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 4.284 s
+recovered (30 s, >=97% ok):  4.384 s, served by eu-central-1
+failed requests after fault: 44  ([('0 1050', 44)])
+acknowledged writes: 4142  present in eu-west-1: 4142  missing: 0
+######## exp2a-fis-shallow
+requests: 4196  ok: 1779  failed: 2417
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 1.105 s
+recovered (30 s, >=97% ok):  256.302 s, served by eu-central-1
+failed requests after fault: 2412  ([('503 1503', 2359), ('0 1050', 53)])
+acknowledged writes: 1779  present in eu-west-1: 1779  missing: 0
+######## exp2b-fis-deep
+requests: 4798  ok: 4057  failed: 741
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 7.518 s
+recovered (30 s, >=97% ok):  77.02 s, served by eu-west-1
+failed requests after fault: 739  ([('503 1503', 685), ('0 1050', 54)])
+acknowledged writes: 4057  present in eu-west-1: 4057  missing: 0
+######## exp3-rpo-b
+requests: 6001  ok: 5151  failed: 850
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 2.586 s
+recovered (30 s, >=97% ok):  88.292 s, served by eu-west-1
+failed requests after fault: 843  ([('503 1503', 785), ('0 1050', 58)])
+failback: first request served by eu-central-1 again after 82.847 s; errors during failback: 23
+acknowledged writes: 5151  present in eu-west-1: 5151  missing: 0
+snapshot at 1795122912265
+acknowledged writes: 1595  present in eu-west-1: 1323  missing: 272
+missing seq range: 1046..1327
+--
+snapshot at 1795123153014
+acknowledged writes: 3966  present in eu-west-1: 3694  missing: 272
+missing seq range: 1046..1327
+######## exp4-pilot-light
+requests: 4800  ok: 4005  failed: 795
+  t(s)   ok eu-central-1  ok eu-west-1  errors   (bucket 10s, t=0 at fault)
+first error after fault: 0.539 s
+recovered (30 s, >=97% ok):  78.541 s, served by eu-west-1
+failed requests after fault: 791  ([('503 1503', 745), ('0 1050', 46)])
+failback: first request served by eu-central-1 again after 69.775 s; errors during failback: 20
+acknowledged writes: 4005  present in eu-west-1: 4005  missing: 0
