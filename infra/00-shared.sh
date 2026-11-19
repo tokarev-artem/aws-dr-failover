@@ -13,9 +13,17 @@ if ! aws dynamodb describe-table --table-name $APP --region $PRIMARY >/dev/null 
   aws dynamodb wait table-exists --table-name $APP --region $PRIMARY
 fi
 aws dynamodb put-item --table-name $APP --region $PRIMARY --item '{"pk":{"S":"health"},"sk":{"N":"0"}}'
+# A table that is UPDATING (e.g. a replica being added) rejects another update.
+until [ "$(aws dynamodb describe-table --table-name $APP --region $PRIMARY --query Table.TableStatus --output text)" = "ACTIVE" ]; do
+  echo "   table is updating..."; sleep 20; done
 if ! aws dynamodb describe-table --table-name $APP --region $PRIMARY --query 'Table.Replicas[].RegionName' --output text | grep -q $SECONDARY; then
-  aws dynamodb update-table --table-name $APP --region $PRIMARY \
-    --replica-updates "Create={RegionName=$SECONDARY}" >/dev/null
+  # First use creates the AWSServiceRoleForDynamoDBReplication role; it can take a minute
+  # before replication may use it, so retry on AccessDenied.
+  for i in 1 2 3 4 5; do
+    aws dynamodb update-table --table-name $APP --region $PRIMARY \
+      --replica-updates "Create={RegionName=$SECONDARY}" >/dev/null && break
+    echo "   retrying in 30 s (new service-linked role)..."; sleep 30
+  done
 fi
 until [ "$(aws dynamodb describe-table --table-name $APP --region $PRIMARY --query "Table.Replicas[?RegionName=='$SECONDARY'].ReplicaStatus|[0]" --output text)" = "ACTIVE" ]; do
   echo "   replica in $SECONDARY: creating..."; sleep 20; done
