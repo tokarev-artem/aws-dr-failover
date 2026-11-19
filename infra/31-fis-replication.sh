@@ -6,7 +6,7 @@ export AWS_REGION=$PRIMARY
 aws iam put-role-policy --role-name $APP-fis --policy-name pause-replication --policy-document "{
   \"Version\":\"2012-10-17\",\"Statement\":[
    {\"Effect\":\"Allow\",\"Action\":[\"dynamodb:PutResourcePolicy\",\"dynamodb:DeleteResourcePolicy\",\"dynamodb:GetResourcePolicy\",\"dynamodb:DescribeTable\"],
-    \"Resource\":[\"arn:aws:dynamodb:*:$ACCOUNT_ID:table/$APP\"]},
+    \"Resource\":[\"arn:aws:dynamodb:*:$ACCOUNT_ID:table/$APP\",\"arn:aws:dynamodb:*:$ACCOUNT_ID:table/$APP/stream/*\"]},
    {\"Effect\":\"Allow\",\"Action\":[\"tag:GetResources\"],\"Resource\":\"*\"}]}"
 TPL=$(aws fis list-experiment-templates --query "experimentTemplates[?tags.Name=='$APP-pause-replication'].id|[0]" --output text)
 if [ "$TPL" = "None" ]; then
