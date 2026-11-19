@@ -42,6 +42,16 @@ for R in $PRIMARY $SECONDARY; do
 done
 unset AWS_REGION
 
+echo "== FIS templates, FIS role, dedicated subnets"
+for t in $(aws fis list-experiment-templates --region $PRIMARY --query "experimentTemplates[?starts_with(tags.Name||'', '$APP-')].id" --output text); do
+  aws fis delete-experiment-template --region $PRIMARY --id $t >/dev/null; done
+aws iam delete-role-policy --role-name $APP-fis --policy-name pause-replication 2>/dev/null
+aws iam detach-role-policy --role-name $APP-fis --policy-arn arn:aws:iam::aws:policy/service-role/AWSFaultInjectionSimulatorNetworkAccess 2>/dev/null
+aws iam delete-role --role-name $APP-fis 2>/dev/null
+for s in $(aws ec2 describe-subnets --region $PRIMARY --filters Name=tag:fis-target,Values=$APP --query 'Subnets[].SubnetId' --output text); do
+  for i in 1 2 3 4 5 6 7 8 9 10 11 12; do aws ec2 delete-subnet --region $PRIMARY --subnet-id $s 2>/dev/null && break; sleep 15; done; done
+# A failed pause-replication run can leave a deny policy on the table; the table is deleted below anyway.
+
 echo "== DynamoDB global table (replica first, then the table)"
 aws dynamodb update-table --table-name $APP --region $PRIMARY --replica-updates "Delete={RegionName=$SECONDARY}" >/dev/null 2>&1 && \
   until [ "$(aws dynamodb describe-table --table-name $APP --region $PRIMARY --query 'length(Table.Replicas||`[]`)')" = "0" ]; do sleep 20; done
