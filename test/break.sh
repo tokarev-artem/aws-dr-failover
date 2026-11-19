@@ -24,6 +24,11 @@ case $1 in
             EXP=$(aws fis start-experiment --region $PRIMARY --experiment-template-id $TPL --query experiment.id --output text)
             until [ "$(aws fis get-experiment --region $PRIMARY --id $EXP --query experiment.state.status --output text)" = "running" ]; do sleep 1; done
             T=$(now); echo "experiment $EXP" ;;
+  standby)  # set the standby's task count: 0 = pilot light, 1 = warm standby
+            aws ecs update-service --region $SECONDARY --cluster $APP --service $APP --desired-count ${2:-1} >/dev/null; T=$(now) ;;
+  pilot-failover) # primary dies and, at the same moment, automation starts the standby (best case for pilot light)
+            aws ecs update-service --region $SECONDARY --cluster $APP --service $APP --desired-count 1 >/dev/null
+            "$0" app-down >/dev/null; T=$(now) ;;
   noop)     T=$(now) ;;
   *) echo "usage: $0 app-down|app-up [n]|db-down|db-up"; exit 1 ;;
 esac
