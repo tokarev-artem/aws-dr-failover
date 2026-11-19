@@ -19,6 +19,11 @@ case $1 in
             EXP=$(aws fis start-experiment --region $PRIMARY --experiment-template-id $TPL --query experiment.id --output text)
             until [ "$(aws fis get-experiment --region $PRIMARY --id $EXP --query experiment.state.status --output text)" = "running" ]; do sleep 1; done
             T=$(now); echo "experiment $EXP" ;;
+  pause-replication)
+            TPL=$(aws fis list-experiment-templates --region $PRIMARY --query "experimentTemplates[?tags.Name=='$APP-pause-replication'].id|[0]" --output text)
+            EXP=$(aws fis start-experiment --region $PRIMARY --experiment-template-id $TPL --query experiment.id --output text)
+            until [ "$(aws fis get-experiment --region $PRIMARY --id $EXP --query experiment.state.status --output text)" = "running" ]; do sleep 1; done
+            T=$(now); echo "experiment $EXP" ;;
   noop)     T=$(now) ;;
   *) echo "usage: $0 app-down|app-up [n]|db-down|db-up"; exit 1 ;;
 esac

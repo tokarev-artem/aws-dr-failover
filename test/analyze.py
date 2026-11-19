@@ -36,15 +36,16 @@ if fault:
     after = [r for r in rows if r["t"] >= fault]
     errs = [r for r in after if not ok(r)]
     first_err = errs[0]["t"] if errs else None
-    # recovered = first moment after which 30 s in a row are all successful
+    # recovered = first success after which the next 30 s have no server errors (5xx) and >= 97% ok.
+    # Status 0 = client-side timeout; the laptop produces ~1-2% of those even when nothing is broken.
     rec = None
     for i, r in enumerate(after):
-        if not ok(r): continue
+        if not ok(r) or (first_err and r["t"] < first_err): continue
         win = [x for x in after[i:] if x["t"] < r["t"] + 30000]
-        if all(map(ok, win)) and win[-1]["t"] - r["t"] > 25000 and (first_err is None or r["t"] > first_err):
+        if win[-1]["t"] - r["t"] > 25000 and not any(x["s"] >= 500 for x in win) and sum(map(ok, win)) >= 0.97 * len(win):
             rec = r; break
     print(f"\nfirst error after fault: {(first_err - fault)/1000 if first_err else '-'} s")
-    print(f"recovered (30 s clean):  {(rec['t'] - fault)/1000 if rec else 'never'} s, served by {rec['r'] if rec else '-'}")
+    print(f"recovered (30 s, >=97% ok):  {(rec['t'] - fault)/1000 if rec else 'never'} s, served by {rec['r'] if rec else '-'}")
     print(f"failed requests after fault: {len(errs)}  ({collections.Counter(str(e['s'])+(' '+str(e['e']) if e['e'] else '') for e in errs).most_common(5)})")
 
 if a.undo_at:
